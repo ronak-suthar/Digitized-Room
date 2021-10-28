@@ -35,18 +35,12 @@
     ![project](./public/images/project01.jpeg)
 
 ### Project Features
-- Temprature and Humidity Information
+- Temprature and Humidity Information(Webpage)
     ![website](./public/images/WebPage.png)
-- Availability Status on device connected LCD
+- Availability Status on device connected LCD(Controlled Via Webpage)
     ![lcd01](./public/images/lcd01.jpeg)
     ![lcd01](./public/images/lcd02.jpeg)
 
-### You Can Use this Application by Follwing these steps
-### `python3 digitizedRoom.py`
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
