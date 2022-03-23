@@ -1,5 +1,7 @@
 # Digitised Room An Internet of Things Project
 
+This is an IoT Application that displays the room temperature and humidity to the user on a web application and a feature to set Room Availability status for visitors on LCD.
+
 ## Tech Stack Used
 
 ![rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
